@@ -1,3 +1,4 @@
+#patricia corvino
 class PlacesController < ApplicationController
 
   def index
